@@ -31,7 +31,7 @@ def home():
         f"<br>"
         f"Precipitation Data: /api/v1.0/precipitation<br/>"
         f"Station Data: /api/v1.0/stations<br/>"
-        f"Temperature Date: /api/v1.0/tobs<br/>"
+        f"Temperature Data: /api/v1.0/tobs<br/>"
         f"Search by Start Date: /api/v1.0/YYYY-MM-DD<br/>"
         f"Search Date Range: /api/v1.0/YYYY-MM-DD/YYYY-MM-DD")
 
